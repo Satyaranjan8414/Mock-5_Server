@@ -4,14 +4,14 @@
 		"name": "Golden Retrievers.",
 		"age": 2,
 		"gender": "Male",
-		"place": "bhiwadi",
+		"place": "Bengalore",
 		"id": 1
 	  },
 	  {
 		"name": "German Shepherd Dogs.",
 		"age": 4,
 		"gender": "Female",
-		"place": "bhiwadi",
+		"place": "Delhi",
 		"id": 2
 	  }
 	]
